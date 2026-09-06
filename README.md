@@ -6,4 +6,4 @@ This repository contains the Postman collection, environment, and documentation 
 API Used: GitHub REST API v3
 Base URL: https://api.github.com
 Authentication Method: Bearer Token (GitHub Personal Access Token)
-Resource Used for CRUD: Gists
+Resource Used for CRUD: Gistsgit
